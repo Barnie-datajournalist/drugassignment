@@ -1,8 +1,8 @@
 ---
-title: "DrugAssignment"
-author: "Barnie Choudhury"
-date: "31/01/2021"
-output: html_document
+Title: "DrugAssignment"
+Author: "Barnie Choudhury"
+Date: "31/01/2021"
+Output: html_document
 ---
 
 This is a short explainer of the rationale and process behind this project.
