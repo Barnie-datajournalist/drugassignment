@@ -19,13 +19,17 @@ FOI requests to eight forces with high south Asian populations.
 FOI request to Ministry of Justice to see how many in jail with an ethnic breakdown.
 
 Clean up data as necessary.
-Decide what you each force tells you.
+Decide what the data from each force tells you. 
 Decide common factors.
 Interrogate data by using pivot tables.
+Decide the story. 
 
-Interview protagnonists.
+Interview protagnonists - case studies, experts and those in authority.
+If you want to make a campaign, decide early on who might help you e.g. MPs and influencers.
 
-Write story.
+Give the police and Home Office the right to respond.
+
+Write story. What are the angles? What is significant? What makes this story stand out? What elements do you need to tell?
 
 Edit video/audio.
 
