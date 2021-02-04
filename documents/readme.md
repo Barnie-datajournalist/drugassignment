@@ -25,7 +25,7 @@ Decide common factors.
 Interrogate data by using pivot tables.
 Decide the story. 
 
-Interview protagnonists - case studies, experts and those in authority.
+Find and interview protagnonists - case studies, experts and those in authority.
 If you want to make a campaign, decide early on who might help you e.g. MPs and influencers.
 
 Give the police and Home Office the right to respond.
